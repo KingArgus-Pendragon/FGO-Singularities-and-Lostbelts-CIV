@@ -1,38 +1,35 @@
 [
 	{
 		"name": "Draconic France",
-		"leaderName": "Jeanne D'Arc",
+		"leaderName": "Jeanne d'Arc Alter",
 		"adjective": ["Draconic France"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
+		"personality": "Jeanne d'Arc Alter"
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Also known as Jeanne Alter (ジャンヌ・オルタ, Jan'nu Oruta?), she represents the Alter counterpart of Jeanne d'Arc.",
+		"startIntroPart2": "However, being designated as an 'Alter' does not indicate a mere alternate aspect of Jeanne d'Arc. Instead, she represents the embodiment of vengeance attributed to Gilles de Rais, the French Army's marshal who grieved for Jeanne d'Arc's death, fabricated by means of the Holy Grail shortly after Jeanne's execution in 1431. As a Heroic Spirit and dark counterpart of the actual Jeanne, she was originally summoned by Gilles in the Ruler class, but can be later summoned by Chaldea in the Avenger class",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your sins have piled enough–allow me to burn them away.",
+		"attacked": "Hah! So the righteous come crawling to their pyre.",
+		"defeated": "Even flames die... but my hatred never will.",
+		"denounced": "Spare me your sanctimony; your words reek of hypocrisy.",
+		"introduction": "I am Jeanne d'Arc... or rather, what your god abandoned. Do you still dare speak His name before me?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "You tread lightly, as if afraid I'll ignite you. Wise.",
+		"hateHello": "Back again? Do you crave the flames that much?",
+		
+		"tradeRequest": "Hmph. Even i see value in mutual gain... for now.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0,0,0],
+		"innerColor": [66,26,76],
+		"uniqueName": "Avenger Saint, Dragon Witch",
+		"uniqueText": "Revenge upon the world is a must. Avenge yourself and burn the world with your Dragons.",
+		"unique": ["[{Military} {Land}] units gain the [Berserker] promotion"],
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
+		"spyNames": ["Gilles De Rais","Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
 	}
 ]
