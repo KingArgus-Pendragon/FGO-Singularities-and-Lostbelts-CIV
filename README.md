@@ -3,7 +3,7 @@
 Adds multiple civilization for Unciv.
 
 Civs Implemented:
-1. 
+
 
 Civs to be Implemented:
 1. Draconic France - Jeanne D'Arc Alter(King/Queen)
