@@ -3,5 +3,9 @@
     {
         "name": "Berserker",
         "unique": ["[+100]% strength","[1] Movement","[-1] Sight"]
+    },
+    {
+        "name": "Dragon Witch's Flame",
+        "unique": ["[+10]% strength","Heals [15] damage if it kills a unit"],
     }
 ]
