@@ -3,5 +3,6 @@
     {
         "name": "Wyvern",
         "movementType": "Air",
+        "uniques": ["[+4] Sight", "Can see over obstacle","Can pass through impassable tiles"]
     }
 ]
