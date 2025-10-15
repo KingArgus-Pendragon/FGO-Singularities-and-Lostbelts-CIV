@@ -14,7 +14,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Wyvern Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Dragon Witch's Flame"],
+		"promotions": ["Dragon Witch's Flame","Can move after attacking"],
 		"attackSound": "arrow"
 	},
 	{
@@ -49,6 +49,6 @@
 		"upgradesTo": "Dragon Cavalry",
 		"obsoleteTech": "Military Science",
 		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+15]% Strength <vs cities> <when attacking>"],
-		"attackSound": "horse
+		"attackSound": "horse"
 	}
 ]
