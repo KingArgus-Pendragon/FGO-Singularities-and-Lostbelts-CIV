@@ -22,6 +22,7 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [66,26,76],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Avenger Saint, Dragon Witch",
 		"uniqueText": "Revenge upon the world is a must. Avenge yourself and burn the world with your Dragons.",
 		"uniques": ["[Land] units gain the [Berserker] promotion"],
@@ -55,6 +56,7 @@
 
 		"outerColor": [255,217,12],
 		"innerColor": [243,0,0],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Beautiful Tyrant",
 		"uniqueText": "Bedazzle the whole world with your talents.",
 		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital"],
@@ -88,6 +90,7 @@
 
 		"outerColor": [0,0,255],
 		"innerColor": [255,255,255],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Rhongomyniad: The Lance That Shines to the End of the World.",
 		"uniqueText": "The anchor of storm that fastens the planet together.",
 		"uniques": ["[+2] Movement <for [Water] units>","[+20]% Strength <for [Land]> units"],
@@ -121,6 +124,7 @@
 
 		"outerColor": [243,0,0],
 		"innerColor": [255,217,12],
+		"favoredReligion": "Islam",
 		"uniqueName": "Supreme Wise King",
 		"uniqueText": "“The one who saw everything.”"
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","No Maintenance costs for improvements in [Fort] tiles", "[+40]% Strength for cities"],
@@ -129,5 +133,39 @@
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
 		"spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
+		"name": "Permafrost Empire: Russia",
+		"leaderName": "Ivan the Terrible",
+		"adjective": ["Permafrost Russia"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		"personality": "Ivan the Terrible",
+
+		"startIntroPart1": "Ivan the Terrible."
+		"startIntroPart2": "The history of Ivan's Lostbelt diverged from that of Proper Human History in 1570 AD when an asteroid struck and plunged the world into an ice age. Most humans died, and while Russians were used to the cold and prepared for such weather, but 90% of their population perished and they were on the cusp of extinction. Ivan and his mages were able to save the country by combining humans with magical beasts, creating the Yaga, with Ivan himself becoming the first after the Tsar had fused himself with the body of an ancient primordial beast hidden in Russia's tundra.",
+
+		"declaringWar": "Tremble, worm! The Tsar of All Rus shall crush your pitiful realm beneath his tusks!",
+		"attacked": "You dare assault the eternal winter? Then freeze where you stand!",
+		"defeated": "My empire... buried beneath the ice once more...",
+		"denounced": "Blasphemy! You question the will of the Tsar? I should mount your head upon mu palace walls!",
+		"introduction": "I am Ivan IV, Tsar of All Rus. Kneel, or be entombed in frost eternal.",
+
+		"neutralHello": "Speak wuickly, outsider. The cold hungers for idle tongues.",
+		"hateHello": "You return, yet still you breathe? My mercy grows thin.",
+
+		"tradeRequest": "Hmph. Tribute, then? So be it—let us barter beneath the shadow of my empire.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [0,0,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Eternal Winter Empire",
+		"uniques": ["[+1 Production] from every [Strategic resource]","[+100]% [Horses] resource production",
+			"[+100]% [Iron] resource production","[+100]% [Uranium] resource production"],
+		"cities": ["Yaga Moscow","Yaga St. Petersburg","Yaga Novgorod","Yaga Rostov","Yaga Yaroslavl","Yaga Yekaterinburg","Yaga Yakutsk","Yaga Vladivostok","Yaga Smolensk","Yaga Orenburg",
+			"Yaga Krasnoyarsk","Yaga Khabarovsk","Yaga Bryansk","Yaga Tver","Yaga Novosibirsk","Yaga Magadan","Yaga Murmansk","Yaga Irkutsk","Yaga Chita","Yaga Samara",
+			"Yaga Arkhangelsk","Yaga Chelyabinsk","Yaga Tobolsk","Yaga Vologda","Yaga Omsk","Yaga Astrakhan","Yaga Kursk","Yaga Saratov","Yaga Tula","Yaga Vladimir","Yaga Perm",
+			"Yaga Voronezh","Yaga Pskov","Yaga Starayarussa","Yaga Kostoma","Yaga Nizhniy Novgorod","Yaga Suzdal","Yaga Magnitogorsk"],
+		"spyNames": ["patxi","Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	}
 ]
