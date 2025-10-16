@@ -97,4 +97,32 @@
 			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
 		"spyNames": ["Gawain","Tristan","Lancelot","Bedivere","Gareth","Agravain","Gaheris","Percival","Galahad","Kay","Merlin","Bors","Palamedes"]
 	},
+	{ 
+		"name": "Ancient Babylonia",
+		"leaderName": "Gilgamesh",
+		"adjective": ["AOG Babylon"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Caster Gilgamesh",
+
+		"startIntroPart1": "Gilgamesh"
+		"startIntroPart2": "The supreme wise king who returned from the journey of immortality. In legends, he has been described as “the one who saw everything”. At times ruthless, at times approving of human nature; the great king of Uruk who strictly led the masses.[2] Upon returning from his search for immortality, he found UrukWP in a decaying state due to his negligence. Since then he has dedicated himself to repairing and maintaining his kingdom, assisted by the chief priestess, Siduri.",
+
+		"declaringWar": "How amusing. You truly believe you can contest the wisdom of Uruk?",
+		"attacked": "Hmph. Insolence! Do you even grasp whose temple you strike?",
+		"defeated": "Heh... so even I... can misjudge the worth of an opponent.",
+		"denounced": "Bold words from one unfit to polish the gates of Uruk.",
+		"introduction": "I am Gilgamesh, King of Heroes and sage of Uruk. Try not to bore me.",
+
+		"neutralHello": "Hm? Ah, a visitor. Speak quickly—my tablets await.",
+		"hateHello": "Still alive? Truly, the gods await my patience."
+
+		"tradeRequest": "Hmph. A transaction? Very well—bring something worthy of a king's gaze.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,215,0],
+		"uniqueName": "Supreme Wise King",
+		"uniqueText": "“The one who saw everything.”"
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","No Maintenance costs for improvements in [Fortress] tiles", "[+40]% Strength for cities"]
+	}
 ]
