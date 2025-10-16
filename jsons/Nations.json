@@ -24,7 +24,7 @@
 		"innerColor": [66,26,76],
 		"uniqueName": "Avenger Saint, Dragon Witch",
 		"uniqueText": "Revenge upon the world is a must. Avenge yourself and burn the world with your Dragons.",
-		"unique": ["[{Military} {Land}] units gain the [Berserker] promotion"],
+		"unique": ["[Land] units gain the [Berserker] promotion"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
