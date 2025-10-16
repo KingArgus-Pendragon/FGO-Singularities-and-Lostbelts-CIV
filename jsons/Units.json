@@ -14,7 +14,8 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Wyvern Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Dragon Witch's Flame","Can move after attacking","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"promotions": ["Dragon Witch's Flame"],
 		"attackSound": "arrow"
 	},
 	{
@@ -31,7 +32,8 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Wyvern Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+10]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","[+10]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Dragon Witch's Flame"],
 		"attackSound": "arrow"
 	},
 	{
@@ -48,7 +50,8 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Dragon Cavalry",
 		"obsoleteTech": "Military Science",
-		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+15]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","[+15]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Dragon Witch's Flame"],
 		"attackSound": "horse"
 	},
 	{ 
@@ -64,6 +67,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["Dragon Witch's Flame"],
 		"attackSound": "horse"
 	}
 ]
