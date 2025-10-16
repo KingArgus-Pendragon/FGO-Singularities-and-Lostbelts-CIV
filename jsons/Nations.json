@@ -58,10 +58,43 @@
 		"uniqueName": "Beautiful Tyrant",
 		"uniqueText": "Bedazzle the whole world with your talents.",
 		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital"],
-		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
+		"cities": ["Rome","Florence","Mediolanum","Massilia","Germania","Gaul","Britannia","Antium","Cumae","Neapolis","Ravenna","Arretium","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
 			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
         "spyNames": ["Caligula","Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
-	}
+	},
+	{
+		"name": "Divine Britannia",
+		"leaderName": "Goddess Rhongomyniad",
+		"adjective": ["Divine Camelot"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Goddess Rhongomyniad",
+
+		"startIntroPart1": "Goddess Rhongomyniad",
+		"startIntroPart2": "She is the alternate form of Artoria Pendragon from a Parallel World where Bedivere never returned Excalibur to the Lady of the Lake after the Battle of Camlann",
+
+		"declaringWar": "You stand against providence itself. I shall erase your distortion.",
+		"attacked": "Your defiance is noted—and meaningless.",
+		"defeated": "So even the light... may fall to shadow.",
+		"denounced": "Blasphemy. You dare cast judgement upon the pillar that sustains your world?",
+		"introduction": "I am the Lance that anchors this world—Rhongomyniad. Kneel, and be still.",
+		
+		"neutralHello": "Mortal. State your purpose befor ethe eternal light.",
+		"hateHello": "Yo persist in your defiance. I shall end your delusion soon enough.",
+		
+		"tradeRequest": "If this exchange preserves order, it shall be permitted.",
+
+		"outerColor": [0,0,255],
+		"innerColor": [255,255,255],
+		"uniqueName": "Rhongomyniad: The Lance That Shines to the End of the World.",
+		"uniqueText": "The anchor of storm that fastens the planet together.",
+		"uniques": ["[+2] Movement <for [Water] units>","[+20] Strength <for [Land> units"],
+		"cities": ["Camelot","Londinium","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+		"spyNames": ["Gawain","Tristan","Lancelot","Bedivere","Gareth","Agravain","Gaheris","Percival","Galahad","Kay","Merlin","Bors","Palamedes"]
+	},
 ]
