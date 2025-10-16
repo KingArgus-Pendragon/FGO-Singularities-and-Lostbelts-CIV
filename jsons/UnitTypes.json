@@ -3,6 +3,11 @@
     {
         "name": "Wyvern",
         "movementType": "Air",
-        "uniques": ["[+4] Sight", "Can see over obstacle","Can pass through impassable tiles"]
+        "uniques": ["[+4] Sight","Can see over obstacle","Can pass through impassable tiles"]
+    },
+    {
+        "name": "Dragon",
+        "movementType": "Air",
+        "uniques": ["[+5] Sight","Can see over obstacle","Can pass through impassable tiles"]
     }
 ]
