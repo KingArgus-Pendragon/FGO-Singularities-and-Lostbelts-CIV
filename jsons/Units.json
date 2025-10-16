@@ -14,7 +14,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Wyvern Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Dragon Witch's Flame","Can move after attacking"],
+		"promotions": ["Dragon Witch's Flame","Can move after attacking","Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
 	{
@@ -31,7 +31,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Wyvern Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+10]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+10]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
 	{
@@ -48,7 +48,22 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Dragon Cavalry",
 		"obsoleteTech": "Military Science",
-		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+15]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Dragon Witch's Flame","Can move after attacking","[+15]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{ 
+		"name": "Dragon Cavalry",
+		"unitType": "Dragon",
+		"uniqueTo": "Draconic France",
+		"replaces": "Cavalry",
+		"movement": 5,
+		"strength": 39,
+		"cost": 245,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	}
 ]
