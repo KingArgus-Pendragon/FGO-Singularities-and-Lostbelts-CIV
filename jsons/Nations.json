@@ -156,8 +156,8 @@
 
 		"tradeRequest": "Hmph. Tribute, then? So be it—let us barter beneath the shadow of my empire.",
 
-		"outerColor": [255,0,0],
-		"innerColor": [0,0,255],
+		"outerColor": [3,3,207],
+		"innerColor": [255,51,51],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Eternal Winter Empire",
 		"uniques": ["[+1 Production] from every [Strategic resource]","[+100]% [Horses] resource production",
@@ -223,8 +223,8 @@
 
 		"tradeRequest": "A transaction? Acceptable. Harmony thrives through calculated exchange.",
 
-		"outerColor": [51,255,255],
-		"innerColor": [204,255,255],
+		"outerColor": [37,159,159],
+		"innerColor": [224,255,255],
 		"favoredReligion": "Taoism",
 		"uniqueName": "The Domination Beginning",
 		"uniques": ["[+20]% Strength <in [Friendly Land] tiles>"]
