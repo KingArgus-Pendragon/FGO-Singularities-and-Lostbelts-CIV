@@ -93,7 +93,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rhongomyniad: The Lance That Shines to the End of the World.",
 		"uniqueText": "The anchor of storm that fastens the planet together.",
-		"uniques": ["[+2] Movement <for [Water] units>","[+20]% Strength <for [Land]> units"],
+		"uniques": ["[+2] Movement <for [Water] units>","[+20]% Strength <for [Land] units>"],
 		"cities": ["Camelot","Londinium","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -137,7 +137,7 @@
 	{
 		"name": "Permafrost Empire: Russia",
 		"leaderName": "Ivan the Terrible",
-		"adjective": ["Permafrost Russia"],
+		"adjective": ["Lostbelt Russia"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		"personality": "Ivan the Terrible",
@@ -166,6 +166,73 @@
 			"Yaga Krasnoyarsk","Yaga Khabarovsk","Yaga Bryansk","Yaga Tver","Yaga Novosibirsk","Yaga Magadan","Yaga Murmansk","Yaga Irkutsk","Yaga Chita","Yaga Samara",
 			"Yaga Arkhangelsk","Yaga Chelyabinsk","Yaga Tobolsk","Yaga Vologda","Yaga Omsk","Yaga Astrakhan","Yaga Kursk","Yaga Saratov","Yaga Tula","Yaga Vladimir","Yaga Perm",
 			"Yaga Voronezh","Yaga Pskov","Yaga Starayarussa","Yaga Kostoma","Yaga Nizhniy Novgorod","Yaga Suzdal","Yaga Magnitogorsk"],
-		"spyNames": ["patxi","Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+		"spyNames": ["Patxi", "Rasputin", "Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+	},
+	{
+		"name": "Scandinavia",
+		"leaderName": "Scáthach-Skaði",
+		"adjective": ["Lostbelt Scandinavia"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		"personality": "Scáthach-Skaði",
+
+		"startIntropart1": "Scáthach-Skaði",
+		"startIntroPart2": "Scáthach-Skadi was a fusion of Skadi and Scáthach brought about by Odin in the Norse Lostbelt during Ragnarok, before he died while sealing Surtr. A Servant originating from the Scandinavian Lostbelt. A completely different person compared to the Scáthach from the common history of man, recognized as the only god in the Lostbelt, whose nature is closer to being a queen.",
+
+		"declaringWar": "Then let winter's judgment fall upon you—Skadi's will is absolute",
+		"attacked": "Futile. The cold does not fear the strike of mortals.",
+		"defeated": "So... even the goddess of winter... may rest at last...",
+		"denounced": "Your words are wind against the storm. Choose them wisely",
+		"introduction": "I am Scáthach-Skaði, queen of the eternal north. Step lightly lest the forest claim you.",
+
+		"neutralHello": "Traveller. What business brings you to my frozen domain?",
+		"hateHello": "You persist, even after I warned you of the cold's embrace?",
+
+		"tradeRequest": "An echange, then? Very well. Even the frost may find value in warmth.",
+		
+		"outerColor": [76,0,153],
+		"innerColor": [204,153,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Goddess of the Icy North",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills"],
+		"cities": ["Skaði","Village 1","Village 2","Village 3","Village 4","Village 5","Village 6","Village 7","Village 8","Village 9",
+			"Village 10","Village 11","Village 12","Village 13","Village 14","Village 15","Village 16","Village 17","Village 18","Village 19",
+			"Village 20","Village 21","Village 22","Village 23","Village 24","Village 25","Village 26","Village 27","Village 28","Village 29",
+			"Village 30","Village 31","Village 32","Village 33","Village 34","Village 35","Village 36","Village 37","Village 38","Village 39",
+			"Village 40"]
+		"spyNames": ["Brynhildr", "Ortlinde", "Hildr", "Thrúd", "Rindr", "Ölrún", "Geirskögul", "Sigurd", "Freja", "Heimdall"]
+	},
+	{
+		"name": "Eternal SIN Empire China",
+		"leaderName": "Qin Shi Huang",
+		"adjective": ["Lostbelt China"],
+		"preferredVictoryType": "Domination",
+		"personality": "Qin Shi Huang",
+
+		"startIntroPart1": "Qin Shi Huang",
+		"startIntroPart2": "This is the final conclusion of the Zhenren who freely used the authority gained from a system of centralized authoritarian rule and poured all of his energy into domestic affairs and technological development, and on top of that, also pursued the path of immortals to improve the limits of his lifespan as a living being.",
+
+		"declaringWar": "Rebellion detected. You shall be eraised for the sake of perferct order.",
+		"attacked": "How curious. You would raise your hand against eternity itself?",
+		"defeated": "Perfection... falters? Impossible... yet enlightening...",
+		"denounced": "Your judgement is irrelevant. I am the axis upon which civilization turns.",
+		"introduction": "I am Qin Shi Huang, the eternal emperor. Humanity requires no other authority.",
+
+		"neutralHello": "State your purpose efficiently. My time is eternal, but not to be wasted.",
+		"hateHello": "You return, defiant still? I shall delete your existence this time.",
+
+		"tradeRequest": "A transaction? Acceptable. Harmony thrives through calculated exchange.",
+
+		"outerColor": [51,255,255],
+		"innerColor": [204,255,255],
+		"favoredReligion": "Taoism",
+		"uniqueName": "The Domination Beginning",
+		"uniques": ["[+20] Strength <in [Friendly Land tiles>"]
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+		"spyNames": ["Li Shuwen", "Qin Liangyu", "Xiang Yu", "Liu", "Yang", "Han Xin", "Zhao", "Wu", "Zhou", "Sun"]
+
 	}
 ]
