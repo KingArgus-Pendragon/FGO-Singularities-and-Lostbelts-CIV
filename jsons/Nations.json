@@ -227,12 +227,11 @@
 		"innerColor": [204,255,255],
 		"favoredReligion": "Taoism",
 		"uniqueName": "The Domination Beginning",
-		"uniques": ["[+20] Strength <in [Friendly Land] tiles>"]
+		"uniques": ["[20] Strength <in [Friendly Land] tiles>"]
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
 		"spyNames": ["Li Shuwen", "Qin Liangyu", "Xiang Yu", "Liu", "Yang", "Han Xin", "Zhao", "Wu", "Zhou", "Sun"]
-
 	}
 ]
