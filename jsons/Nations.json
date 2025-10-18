@@ -299,5 +299,37 @@
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
 			"Patras","Lamia","Nafplion","Apolyton"],	
 		 "spyNames": ["Hera", "Athena", "Aphrodite", "Artemis", "Poseidon", "Hades", "Demeter", "Apollo", "Hestia", "Hephaestus","Ares"]
+	},
+	{
+		"name": "Faerie Britain",
+		"leaderName": "Morgan",
+		"adjective": ["Lostbelt Britain"],
+		"preferredVictoryType": "Domination",
+		"personality": "Morgan le Fae",
+
+		"startIntroPart1": "High Queen Morgan",
+		"startIntroPart2": "She was created by the planet in 4,000 BC to be the savior of Britain.  In fulfilling her role as savior, she used the name Aesc the Savior as an alias. She established an authoritarian monarchy in the Lostbelt Britain and has made the fairies suffer under her oppressive rule for 2000 years. As the highest-ranking fairy, she is a genius mage who has mastered Rhongomyniad, the Lance that Shines to the Ends of the World, as a form of Magecraft.",
+
+		"declaringWar": "So be it. You've chosen to challenge Britain's crown—prepare to kneel or perish.",
+		"attacked": "How quaint. Another insect dares to test my dominion?",
+		"defeated": "Britain... must not... fall... not again...",
+		"denounced": "Watch your tongue. Even kings tremble before the High Queen.",
+		"introduction": "I am Morgan, High Queen of Britain. Remember that your life endures only by my indulgence.",
+
+		"neutralHello": "Ah, the outsider. Speak—but mind your manners in my court.",
+		"hateHello": "You again? I should have crushed your insolence when I had the chance.",
+
+		"tradeRequest": "A transaction? Hmph. Very well—Britain profitd from even lesser hands.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [51,51,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Roadless Camelot",
+		"uniques": ["[+50]% [Production] [in all cities]","No Maintenance costs for improvements in [All Road] tiles"],
+		"cities": ["Camelot","London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	}
 ]
