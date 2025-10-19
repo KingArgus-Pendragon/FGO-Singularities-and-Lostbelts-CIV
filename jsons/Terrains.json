@@ -2,7 +2,7 @@
   {
 		"name": "Mountain",
 		"type": "Land",
-    "production": "2",
+    	"production": "2",
 		"impassable": true,
 		"defenceBonus": 0.25,
 		"RGB": [102, 102, 102],
