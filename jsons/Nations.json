@@ -127,7 +127,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Supreme Wise King",
 		"uniqueText": "“The one who saw everything.”"
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","No Maintenance costs for improvements in [Fort] tiles", "[+40]% Strength for cities","Starts with [Pottery]"],
+		"uniques": ["No Maintenance costs for improvements in [Fort] tiles", "[+40]% Strength for cities","Starts with [Pottery]","Free [Great Scientist] appears <upon discovering [Writing] technology>"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
