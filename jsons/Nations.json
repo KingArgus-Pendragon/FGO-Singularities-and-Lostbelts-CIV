@@ -33,14 +33,14 @@
 		"spyNames": ["Gilles De Rais","Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
 	},
 	{
-		"name": "Roman Empire",
+		"name": "Eternal Roman Empire",
 		"leaderName": "Nero Claudius",
 		"adjective": ["Septem Rome"],
 		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Nero Claudius",
 
-		"startIntroPart1": "Nero Claudius Caesar Augustus Germanicus.",
+		"startIntroPart1": "Nero Claudius Caesar Augustus Germanicus",
 		"startIntroPart2": "The Fifth Roman Emperor. She had the reputation of a notorious tyrant whose rule was made up of schemes and poison as she oppressed all religious forces, especially Christians, and the Roman Senate during the period from 50 to 60 AD.",
 
 		"declaringWar": "The stage is set, and I, Nero Claudius, shall claim the spotlight of victory!",
@@ -67,7 +67,7 @@
         "spyNames": ["Caligula","Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
 	},
 	{
-		"name": "Divine Britannia",
+		"name": "Divine Britain",
 		"leaderName": "Goddess Rhongomyniad",
 		"adjective": ["Divine Camelot"],
 		"startBias": ["Coast"],
@@ -127,12 +127,12 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Supreme Wise King",
 		"uniqueText": "“The one who saw everything.”"
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","No Maintenance costs for improvements in [Fort] tiles", "[+40]% Strength for cities"],
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","No Maintenance costs for improvements in [Fort] tiles", "[+40]% Strength for cities","Starts with [Pottery]"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-		"spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+		"spyNames": ["Siduri","Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Ereshkigal", "Aruru"]
 	},
 	{
 		"name": "Permafrost Empire: Russia",
@@ -203,7 +203,7 @@
 		"spyNames": ["Brynhildr", "Ortlinde", "Hildr", "Thrúd", "Rindr", "Ölrún", "Geirskögul", "Sigurd", "Freja", "Heimdall"]
 	},
 	{
-		"name": "Eternal SIN Empire China",
+		"name": "Eternal SIN Empire: China",
 		"leaderName": "Qin Shi Huang",
 		"adjective": ["Lostbelt China"],
 		"preferredVictoryType": "Domination",
