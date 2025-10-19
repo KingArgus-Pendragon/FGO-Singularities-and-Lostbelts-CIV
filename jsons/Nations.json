@@ -292,7 +292,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "World Discipline Keraunos",
-		"uniques": ["City-State territory always counts as friendly territory","[+3 Faith] from every [Shrine]","[+3 Faith] from every [Temple]","[+2 Gold, +3 Production] from every [World Wonder]"],
+		"uniques": ["City-State territory always counts as friendly territory","[+3 Faith] from every [Shrine]","[+3 Faith] from every [Temple]","[+2 Gold, +3 Production] from every [World Wonder]","[Settler] units gain the [Mountainous Cities] promotion"],
 		"cities": ["Olympus","Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
