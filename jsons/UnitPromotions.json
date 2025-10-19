@@ -1,11 +1,16 @@
 [
   //Draconic France Promotions
-    {
-        "name": "Berserker",
-        "uniques": ["[+100]% Strength","[1] Movement","[-1] Sight"]
-    },
-    {
-        "name": "Dragon Witch's Flame",
-        "uniques": ["[+15]% Strength","Heals [15] damage if it kills a unit"],
-    }
+  {
+      "name": "Berserker",
+      "uniques": ["[+100]% Strength","[1] Movement","[-1] Sight"]
+  },
+  {
+      "name": "Dragon Witch's Flame",
+      "uniques": ["[+15]% Strength","Heals [15] damage if it kills a unit"],
+  },
+  
+  //Interstellar Olympus Promotions
+  {
+      "name": "Mountainous Cities",
+      "uniques": ["Founds a new city <in [Mountain] tiles> <by consuming this unit>","Can pass through impassable tiles"]
 ]
