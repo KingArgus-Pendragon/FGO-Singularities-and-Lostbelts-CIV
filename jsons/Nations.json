@@ -354,8 +354,8 @@
 
 		"tradeRequest": "Hm. An offering or exchange? Very well—balance must be maintained.",
 
-		"outerColor": [102,178,255],
-		"innerColor": [0,255,0],
+		"outerColor": [0,255,0],
+		"innerColor": [102,178,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Last Sun Xibalba",
 		"uniques": ["[+3 Faith, +4 Production] from every [Jungle]","[+50]% Production when constructing [Culture] buildings [in all cities]"],
@@ -388,8 +388,8 @@
 
 		"tradeRequest": "A trade? Interesting. Let's see what fortune you're willing to gamnble this time.",
 
-		"outerColor": [255,215,0],
-		"innerColor": [160,160,160],
+		"outerColor": [160,160,160],
+		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "First Sun Xibalba",
 		"uniques": ["[+3 Faith, +4 Production] from every [Jungle]","[+35]% Production when constructing [Land] units [in all cities]"],
