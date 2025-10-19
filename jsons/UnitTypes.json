@@ -2,12 +2,12 @@
 //Draconic France Units
     {
         "name": "Wyvern",
-        "movementType": "Air",
+        "movementType": "Land",
         "uniques": ["[+4] Sight","Can see over obstacle","Can pass through impassable tiles"]
     },
     {
         "name": "Dragon",
-        "movementType": "Air",
+        "movementType": "Land",
         "uniques": ["[+5] Sight","Can see over obstacle","Can pass through impassable tiles"]
     }
 ]
