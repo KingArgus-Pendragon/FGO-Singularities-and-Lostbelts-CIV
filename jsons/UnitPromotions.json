@@ -13,4 +13,5 @@
   {
       "name": "Mountainous Cities",
       "uniques": ["Founds a new city <in [Mountain] tiles> <by consuming this unit>","Can pass through impassable tiles"]
+  }
 ]
