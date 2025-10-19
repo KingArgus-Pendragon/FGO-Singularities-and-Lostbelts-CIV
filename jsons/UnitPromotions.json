@@ -16,6 +16,6 @@
   },
   {
       "name": "Blessing of Olympus",
-      "uniques": "[This Unit] heals [75] HP <upon ending a turn in a [Mountain] tile>"
+      "uniques": ["[This Unit] heals [75] HP <upon ending a turn in a [Mountain] tile>","Can pass through impassable tiles"]
   }
 ]
