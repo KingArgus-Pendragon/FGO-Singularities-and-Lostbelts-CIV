@@ -8,6 +8,19 @@
       "name": "Dragon Witch's Flame",
       "uniques": ["[+15]% Strength","Heals [15] damage if it kills a unit"],
   },
+
+  //Roman Empire Promotions
+  {
+    "name": "All Roads Lead To Rome",
+    "uniques": "Can build [All Road] improvements at a [+40]% rate"
+  },
+  {
+    "name": "Invictus Spiritus",
+    "uniques": ["May heal outside of friendly territory","All healing effects doubled"]
+  },
+  {
+    "name": "Imperial Privilege",
+    "uniques": ["[+50]% XP gained from combat"]
   
   //Interstellar Olympus Promotions
   {
