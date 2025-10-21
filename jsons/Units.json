@@ -16,7 +16,7 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
 		"promotions": ["Dragon Witch's Flame"],
-		"attackSound": "arrow"
+		"attackSound": "horse"
 	},
 	{
 		"name": "Wyvern Rider",
@@ -69,5 +69,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["Dragon Witch's Flame"],
 		"attackSound": "horse"
+	},
+//Roman Empire Units
+	{
+		"name": "Hastati",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Roman Empire",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	}
 ]
