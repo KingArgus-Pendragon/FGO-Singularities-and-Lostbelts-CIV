@@ -12,7 +12,7 @@
   //Roman Empire Promotions
   {
     "name": "All Roads Lead To Rome",
-    "uniques": "Can build [All Road] improvements at a [+40]% rate"
+    "uniques": ["Can build [All Road] improvements at a [+40]% rate"]
   },
   {
     "name": "Invictus Spiritus",
