@@ -75,7 +75,7 @@
 		"name": "Hastati",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Roman Empire",
+		"uniqueTo": "Eternal Roman Empire",
 		"movement": 2,
 		"strength": 11,
 		"cost": 56,
@@ -88,6 +88,8 @@
 	{
 		"name": "Ballistae",
 		"unitType": "Siege",
+		"replaces": "Catapullt",
+		"uniqueTo": "Eternal Roman Empire",
 		"movement": 2,
 		"strength": 6,
 		"rangedStrength": 9,
