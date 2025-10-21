@@ -88,7 +88,7 @@
 	{
 		"name": "Ballistae",
 		"unitType": "Siege",
-		"replaces": "Catapullt",
+		"replaces": "Catapult",
 		"uniqueTo": "Eternal Roman Empire",
 		"movement": 2,
 		"strength": 6,
