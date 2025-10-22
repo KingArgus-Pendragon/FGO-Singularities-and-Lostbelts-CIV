@@ -24,7 +24,7 @@
   },
   {
     "name": "Imperial Supply Lines",
-    "uniques": "All healing effects doubled <in [Road] tiles>"
+    "uniques": ["All healing effects doubled <in [Road] tiles>"]
   },
   
   //Interstellar Olympus Promotions
@@ -38,11 +38,11 @@
   },
   { 
     "name": "Theos Klironomia",
-    "uniques": "[+10%] Strength"
+    "uniques": ["[+10%] Strength"]
   },
   {
     "name": "Zeus Klironomia",
-    "uniques": "[+50%] Strength"
+    "uniques": ["[+50%] Strength"]
   },
   { 
     "name": "Ares Klironomia",
@@ -50,6 +50,6 @@
   },
   {
     "name": "Warmonger",
-    "uniques": "[+25]% Strength <when at war>"
+    "uniques": ["[+25]% Strength <when at war>"]
   }
 ]
