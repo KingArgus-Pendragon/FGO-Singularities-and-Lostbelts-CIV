@@ -9,7 +9,7 @@
       "uniques": ["[+15]% Strength","Heals [15] damage if it kills a unit"],
   },
 
-  //Roman Empire Promotions
+  //Eternal Roman Empire Promotions
   {
     "name": "All Roads Lead To Rome",
     "uniques": ["Can build [All Road] improvements at a [+40]% rate"]
@@ -22,26 +22,34 @@
     "name": "Imperial Privilege",
     "uniques": ["[+50]% XP gained from combat"]
   },
+  {
+    "name": "Imperial Supply Lines",
+    "uniques": "All healing effects doubled <in [Road] tiles>"
+  },
   
   //Interstellar Olympus Promotions
   {
-      "name": "Mountainous Cities",
-      "uniques": ["Founds a new city <in [Mountain] tiles> <by consuming this unit>","Can pass through impassable tiles"]
+    "name": "Mountainous Cities",
+    "uniques": ["Founds a new city <in [Mountain] tiles> <by consuming this unit>","Can pass through impassable tiles"]
   },
   {
-      "name": "Blessing of Olympus",
-      "uniques": ["[This Unit] heals [75] HP <upon ending a turn in a [Mountain] tile>","Can pass through impassable tiles"]
+    "name": "Blessing of Olympus",
+    "uniques": ["[This Unit] heals [75] HP <upon ending a turn in a [Mountain] tile>","Can pass through impassable tiles"]
   },
   { 
-      "name": "Theos Klironomia",
-      "uniques": "[+10%] Strength"
+    "name": "Theos Klironomia",
+    "uniques": "[+10%] Strength"
   },
   {
-      "name": "Zeus Klironomia",
-      "uniques": "[+50%] Strength"
+    "name": "Zeus Klironomia",
+    "uniques": "[+50%] Strength"
   },
   { 
-      "name": "Ares Klironomia",
-      "uniques": "[+20%] Strength"
+    "name": "Ares Klironomia",
+    "uniques": ["[+20%] Strength","[This Unit] gains the [Warmonger] promotion"]
+  },
+  {
+    "name": "Warmonger",
+    "uniques": "[+25]% Strength <when at war>"
   }
 ]
