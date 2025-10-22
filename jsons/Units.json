@@ -83,6 +83,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Imperial Privilege","Imperial Supply Lines"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -99,6 +100,7 @@
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>","[+100]% Strength <vs [Land] units> <when attacking>","[+100]% Strength <vs [Water] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
+		"promotions": ["Imperial Supply Lines"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	}
