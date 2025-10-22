@@ -31,5 +31,17 @@
   {
       "name": "Blessing of Olympus",
       "uniques": ["[This Unit] heals [75] HP <upon ending a turn in a [Mountain] tile>","Can pass through impassable tiles"]
+  },
+  { 
+      "name": "Theos Klironomia",
+      "uniques": "[+10%] Strength"
+  },
+  {
+      "name": "Zeus Klironomia",
+      "uniques": "[+50%] Strength"
+  },
+  { 
+      "name": "Ares Klironomia",
+      "uniques": "[+20%] Strength"
   }
 ]
