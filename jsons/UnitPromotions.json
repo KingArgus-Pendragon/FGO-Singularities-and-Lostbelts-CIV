@@ -83,7 +83,7 @@
   },
     {
     "name": "Apollo Klironomia",
-    "uniques": ["[+40]% XP gained from combat","[+3] Sight","[+10]% Strength <when fighting in [Pasture] tiles"]
+    "uniques": ["[+40]% XP gained from combat","[+3] Sight","[+10]% Strength <when fighting in [Pasture] tiles>"]
   },
     {
     "name": "Hestia Klironomia",
@@ -91,7 +91,7 @@
   },
     {
     "name": "Hera Klironomia",
-    "uniques": ["[+25]% Strength <during a Golden Age> <during We Love The King Day"]
+    "uniques": ["[+25]% Strength <during a Golden Age> <during We Love The King Day>"]
   }
   //Faerie Britain Promotions
 ]
