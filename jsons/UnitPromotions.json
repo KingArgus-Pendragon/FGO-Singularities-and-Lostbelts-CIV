@@ -70,20 +70,20 @@
   },
   {
     "name": "Ares Klironomia",
-    "uniques": ["[+30]% Strength"]
+    "uniques": ["[+30]% Strength","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
   },
   {
     "name": "Hermes Klironomia",
-    "uniques": ["Improves movement speed on roads","[3] Movement"]
+    "uniques": ["Double movement in [All]","[3] Movement"]
   },
   {
     "name": "Artemis Klironomia",
-    "uniques": ["Heals [15] damage if it kills a unit","Double movement in [Jungle]","Double movement in [Forest]","[+30] Strength <for [Archery] units>",
-    "[+25] Strength <for [Gunpowder] units>","[+20] Strength <for [Ranged Gunpowder] units>"]
+    "uniques": ["Heals [15] damage if it kills a unit","Double movement in [Jungle]","Double movement in [Forest]","[+30]% Strength <for [Archery] units>",
+    "[+25]% Strength <for [Gunpowder] units>","[+20]% Strength <for [Ranged Gunpowder] units>"]
   },
     {
     "name": "Apollo Klironomia",
-    "uniques": ["[+40]% XP gained from combat","[+3] Sight","[+10] Strength <when fighting in [Pasture] tiles"]
+    "uniques": ["[+40]% XP gained from combat","[+3] Sight","[+10]% Strength <when fighting in [Pasture] tiles"]
   },
     {
     "name": "Hestia Klironomia",
