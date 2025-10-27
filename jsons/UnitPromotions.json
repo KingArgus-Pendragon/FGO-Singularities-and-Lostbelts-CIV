@@ -26,7 +26,23 @@
     "name": "Imperial Supply Lines",
     "uniques": ["All healing effects doubled <in [Road] tiles>"]
   },
-  
+  // Unit Upgrade Promotions
+  {
+    "name": "Velites",
+    "uniques": ["[+10]% Strength <when attacking>"]
+  },
+  {
+    "name": "Hastati",
+    "uniques": ["[+15]% Strength","[+20]% to Flank Attack bonuses"]
+  },
+  {
+    "name": "Principes",
+    "uniques": ["[+20]% XP gained from combat"]
+  },
+  {
+    "name": "Principes",
+    "uniques": ["Earn [25]% of killed [Enemy] unit's [Cost] as [Gold]"]
+  },
   //Interstellar Olympus Promotions
   {
     "name": "Mountainous Cities",
