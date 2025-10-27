@@ -41,7 +41,7 @@
   },
   {
     "name": "Principes",
-    "uniques": ["Earn [25]% of killed [Enemy] unit's [Cost] as [Gold]"]
+    "uniques": ["Earn [25]% of killed [Military] unit's [Cost] as [Gold]"]
   },
   //Interstellar Olympus Promotions
   {
