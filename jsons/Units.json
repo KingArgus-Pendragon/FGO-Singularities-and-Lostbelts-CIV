@@ -72,13 +72,52 @@
 	},
 //Roman Empire Units
 	{
-		"name": "Hastati",
+		"name": "Velites",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Eternal Roman Empire",
 		"movement": 2,
 		"strength": 11,
 		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Can upgrade to [Hastati] <for units with [Hastati]>"],
+		"promotions": ["Imperial Privilege","Imperial Supply Lines","Velites"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Hastati",
+		"unitType": "Sword",
+		"uniqueTo": "Eternal Roman Empire",
+		"movement": 2,
+		"strength": 12,
+		"cost": 62,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Can upgrade to [Principes] <for units with [Principes]>"],
+		"promotions": ["Imperial Privilege","Imperial Supply Lines"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Principes",
+		"unitType": "Sword",
+		"uniqueTo": "Eternal Roman Empire",
+		"movement": 2,
+		"strength": 14,
+		"cost": 73,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Can upgrade to [Triarii] <for units with [Triarii]>"],
+		"promotions": ["Imperial Privilege","Imperial Supply Lines"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Triarii",
+		"unitType": "Sword",
+		"uniqueTo": "Eternal Roman Empire",
+		"movement": 2,
+		"strength": 15,
+		"cost": 84,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
@@ -104,4 +143,5 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	}
+// Divine Britain Units
 ]
